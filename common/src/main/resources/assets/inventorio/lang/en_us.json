@@ -42,7 +42,7 @@
   "inventorio.settings.global.description": "§fChanging these settings will have a game-wide effect.\nThe intended use is mod compatibility.\nJoining a modded server may override these settings.\n§cIt's strongly recommended to restart Minecraft after changing these settings.",
   "inventorio.settings.global.disabled_by_server": "§cCan't set Global Settings while playing on a server.",
 
-  "inventorio.settings.global.expanded_ender_chest": "Expanded Ender Chest",
+  
   "inventorio.settings.global.infinity_bow_no_arrows": "Infinity Bow Requires No Arrows",
   "inventorio.settings.global.totem_from_utility_belt": "Totem Activates from the Utility Belt",
   "inventorio.settings.global.allow_swapped_hands": "Allow Swapped Hands",
